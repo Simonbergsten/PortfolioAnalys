@@ -308,3 +308,5 @@ stock_data %>%
          kursutveckling_1year, kursutveckling_6month)
 
 
+# Testing out the dev branch
+# Commenting some stuff
